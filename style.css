@@ -1683,5 +1683,8 @@ details p {
     width: 100%;
     height: auto;
   }
+  .footer-links{
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 
