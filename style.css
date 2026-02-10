@@ -1650,7 +1650,7 @@ details p {
 
   /* TEMPLATES */
   .templates-cards {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
 
   /* INTEGRATIONS */
@@ -1665,12 +1665,12 @@ details p {
 
   /* OTHER FEATURES */
   .features-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
 
   /* REVIEWS */
   .reviews-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
 
   /* PRICING */
